@@ -59,9 +59,9 @@ Espero que algo deste projeto te inspire também. 🙌
 
 ## Pastas referentes
 
-- [Calculadora Em Idiomas Diferentes](calc-simples-Idiomas)
-- [Lista de Tarefas](lista-de-tarefas)
-- [Calculadora Complexa](calculadora-completa)
+- [Calculadora Em Idiomas Diferentes](calc-simples-Idiomas/README.md)
+- [Lista de Tarefas](Lista-De-Tarefas/READEME.md)
+- [Calculadora Complexa](calculadora-completa/)
 
 🧑‍💻 **Autor:** Mateus  
 📅 _Primeiro Ano – Rumo ao Próximo Nível_
