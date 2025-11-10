@@ -58,6 +58,7 @@ Espero que algo deste projeto te inspire também. 🙌
 ---
 
 ## Pastas referentes
+
 - [Calculadora Em Idiomas Diferentes](calc-simples-Idiomas)
 - [Lista de Tarefas](Lista-De-Tarefas)
 - [Calculadora Complexa](calculadora-completa)
