@@ -21,4 +21,4 @@ O objetivo do projeto é permitir que o usuário adicione, visualize e gerencie 
 ---
 
 ### 🎯 Objetivo  
-Praticar conceitos fundamentais como manipulação de elementos com o DOM, eventos de teclado e clique, arrays e funções em JavaScript.  
+Praticar conceitos fundamentais como manipulação de elementos com o DOM, eventos de teclado e clique, arrays e funções em JavaScript.   
